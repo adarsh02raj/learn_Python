@@ -79,3 +79,4 @@ print(letter);
 # q5 --------------------------------------->
 letter = "Dear Harry,\n\t\tThis python course is nice.\n\t\tThanks!"
 print(letter)
+print(letter)
